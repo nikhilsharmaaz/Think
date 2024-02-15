@@ -1,2 +1,2 @@
 #THINK
-[See it Live]([Markdown Live Preview](https://markdownlivepreview.com/))
+[See it Live](https://nikhilsharmaaz.github.io/Think/)
