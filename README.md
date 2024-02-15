@@ -1,2 +1,2 @@
 #THINK
-[See it Live](https://nikhilsharmaaz.github.io/Think/)
+[See it Live](https://nikhilshz.github.io/Think/)
